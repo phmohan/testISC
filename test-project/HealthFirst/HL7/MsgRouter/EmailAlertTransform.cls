@@ -2,7 +2,7 @@ Class test.test Extends Ens.DataTransformDTL [ DependsOn = Ens.AlertRequest ]
 {
 
 Parameter IGNOREMISSINGSOURCE = 1;
-
+//this is a test comment
 Parameter REPORTERRORS = 1;
 
 XData DTL [ XMLNamespace = "http://www.intersystems.com/dtl" ]
